@@ -3,9 +3,9 @@
 
 @import 'jekyll-theme-architect';
 
-/* Este es el archivo CSS que sobreescribe a los anteriores */
+/* Custom CSS */
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 .inner {
-  font-style: "Montserrat"
+  font-family: "Montserrat"
 }
