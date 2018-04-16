@@ -5,7 +5,7 @@
  *    user zoom.
  */
 @import url("https://fonts.googleapis.com/css?family=Architects+Daughter");
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 html {
   font-family: sans-serif;
   /* 1 */
@@ -617,7 +617,7 @@ header h2 {
   position: relative;
   width: 940px;
   margin: 0 auto;
-  font-family: 'Montserrat', sans-serif; }
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; }
 
 #content-wrapper {
   padding-top: 30px;
