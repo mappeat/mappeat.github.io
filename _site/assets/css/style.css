@@ -966,3 +966,5 @@ footer a:hover {
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 /* Este es el archivo CSS que sobreescribe a los anteriores */
+.inner {
+  font-style: "Montserrat"; }
