@@ -1,5 +1,6 @@
 title: Mappeat
 description: Mappeat web
 show_downloads: false
+show_github: false
 google_analytics:
 theme: jekyll-theme-architect
